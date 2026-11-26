@@ -1,0 +1,22 @@
+# Raw EEG data / large files
+*.edf
+*.bdf
+*.fif
+*.set
+*.fdt
+*.vhdr
+*.eeg
+data/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
